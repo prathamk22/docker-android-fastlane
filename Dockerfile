@@ -1,4 +1,4 @@
-FROM openjdk:8
+FROM openjdk:11
 
 LABEL softartdev <artik222012@gmail.com>
 
